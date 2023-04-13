@@ -1,2 +1,2 @@
 #!/bin/bash
-lrwxrwxrwx 1 root root 7 __ls__ -> /bin/ls_
+lrwxrwxrwx  1 ubuntu ubuntu      7 Sep 20 03:24 __ls__ -> /bin/ls
